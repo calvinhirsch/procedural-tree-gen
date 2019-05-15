@@ -2,6 +2,8 @@
 
 This program procedurally draws trees when clicking and holding the mouse from the mouse location. It uses random angles and branch thickness calculated based on length.
 
+![preview](https://github.com/calvinhirsch/procedural-tree-gen/preview.gif)
+
 ## Installation & Use
 
 To run, download the repository and open index.html. Click & hold to draw trees at the mouse location. Press z to undo.
